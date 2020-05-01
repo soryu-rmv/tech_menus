@@ -19,6 +19,8 @@ githubに置いてある全コンテンツへのリンクです。
 <h2 id="tag1">jsプラグイン、スクリプト使用（特に併用）</h2>
 Application with scripting and existing js plugins
 
+<br>
+
 1. [4プラグイン併用によるRPGイベントにおけるキャラクターイベント配置・管理の効率化](https://github.com/soryu-rmv/rmv_tech01)     
 [Efficient design for events in RPG story by using four js plugins](https://github.com/soryu-rmv/rmv_tech01/blob/master/en.md)　    
 
@@ -31,7 +33,7 @@ Discussion the installation of plugins which introduce passive skills to a game
 <h2 id="tag2">RPGMVイベントコマンドのテクニック集（プラグイン、スクリプト不要）</h2>    
 Technique collections for RPGMV **without** scripting and js plugins   
 
-
+<br>
 
 1. [作業中のRPGツクールMV強制終了によるデータ破損回避術](https://github.com/soryu-rmv/rpgmv_crash)     
    [Tips to save our project data from RPGMV crash](https://github.com/soryu-rmv/rpgmv_crash/blob/master/en.md)    
@@ -47,7 +49,7 @@ Technique collections for RPGMV **without** scripting and js plugins
 <h2 id="tag3">補助ツール等</h2>   
 Supplimental tools for game construction in RPGMV (Instruction in English follows in the same articles.)     
 
-<br>
+<br><br>
 
 
 1. [RPGMV Unused Plugin Remover](https://github.com/soryu-rmv/RUPR)
