@@ -16,7 +16,7 @@ by 蒼竜 @soryu_rpmakermv
 <h2 id="tag1">jsプラグイン、スクリプト使用（特に併用）</h2>
 Application with scripting and existing js plugins
 
-1. [プラグイン併用によるRPGイベントにおけるキャラクターイベント配置・管理の効率化](https://github.com/soryu-rmv/rmv_tech01)     
+1. [4プラグイン併用によるRPGイベントにおけるキャラクターイベント配置・管理の効率化](https://github.com/soryu-rmv/rmv_tech01)     
 [Efficient design for events in RPG story by using four js plugins](https://github.com/soryu-rmv/rmv_tech01/blob/master/en.md)　    
 
 2. パッシブスキルの概念を定義するプラグインの導入に関する検討   
