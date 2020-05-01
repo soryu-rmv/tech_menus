@@ -13,7 +13,7 @@ by 蒼竜 @soryu_rpmakermv
 
 <br><br><br><br>
                    
-<h2 id="tag1">jsプラグイン、スクリプト使用</h2>
+<h2 id="tag1">jsプラグイン、スクリプト使用（特に併用）</h2>
 Application with scripting and existing js plugins
 
 1. [プラグイン併用によるRPGイベントにおけるキャラクターイベント配置・管理の効率化](https://github.com/soryu-rmv/rmv_tech01)     
