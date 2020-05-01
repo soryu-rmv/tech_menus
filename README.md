@@ -39,8 +39,8 @@ Technique collections for RPGMV **without** scripting and js plugins
    [Tips to save our project data from RPGMV crash](https://github.com/soryu-rmv/rpgmv_crash/blob/master/en.md)    
    
 
-2. 並列処理イベントでのプレイヤー座標監視を用いたイベント起動    
-   Event Trigger by observation for player's current position in parallel   
+2. 並列処理イベントによるプレイヤー監視とその応用    
+   Event Trigger by observation for player's in parallel   
 
 
 
