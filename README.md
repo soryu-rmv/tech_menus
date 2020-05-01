@@ -30,7 +30,7 @@ Technique collections for RPGMV **without** scripting and js plugins
 
 
 
-1. 作業中のツクールMVクラッシュによるデータ破損回避術   
+1. 作業中のRPGツクールMV強制終了によるデータ破損回避術   
    Tips to save our project data from RPGMV crash    
    
 
