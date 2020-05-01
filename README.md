@@ -21,7 +21,7 @@ Application with scripting and existing js plugins
 
 
 
-
+<br><br>
 
 <h2 id="tag2">RPGMVイベントコマンドのテクニック集（プラグイン、スクリプト不要）</h2>    
 Technique collections for RPGMV without scripting and js plugins   
@@ -35,6 +35,9 @@ Technique collections for RPGMV without scripting and js plugins
 2. 並列処理イベントでのプレイヤー座標監視を用いたイベント起動    
    Event Trigger by observation for player's current position in parallel   
 
+
+
+<br><br>
 
 <h2 id="tag3">補助ツール等</h2>   
 Supplimental tools for game construction in RPGMV (Instruction in English follows in the same articles.)
