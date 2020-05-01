@@ -7,7 +7,7 @@
 
 
 
-<h2 id="tag2">RPGツクールMVのイベントコマンド関係のテクニック集（プラグイン、スクリプト不要）</h2>
+<h2 id="tag2">RPGMVイベントコマンドのテクニック集（プラグイン、スクリプト不要）</h2>
 Technique collections for RPGMV without scripting and js plugins
 
 
