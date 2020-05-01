@@ -24,7 +24,7 @@ Application with scripting and existing js plugins
 <br><br>
 
 <h2 id="tag2">RPGMVイベントコマンドのテクニック集（プラグイン、スクリプト不要）</h2>    
-Technique collections for RPGMV without scripting and js plugins   
+Technique collections for RPGMV **without** scripting and js plugins   
 
 
 
