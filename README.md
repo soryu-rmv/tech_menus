@@ -2,6 +2,9 @@
 
 テクニック集メインリンク  (Links titled in English are for articles in English.)         
 by 蒼竜 @soryu_rpmakermv    
+<br>
+
+githubに置いてある全コンテンツへのリンクです。
 
 ------------------------------------------     
 
