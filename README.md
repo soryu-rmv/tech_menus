@@ -45,7 +45,7 @@ Technique collections for RPGMV **without** scripting and js plugins
 <br><br>
 
 <h2 id="tag3">補助ツール等</h2>   
-Supplimental tools for game construction in RPGMV (Instruction in English follows in the same articles.)
+Supplimental tools for game construction in RPGMV (Instruction in English follows in the same articles.)     
 
 1. [RPGMV Unused Plugin Remover](https://github.com/soryu-rmv/RUPR)
  
