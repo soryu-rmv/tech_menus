@@ -6,7 +6,7 @@
 <h2 id="tag1">jsプラグイン、スクリプト使用</h2>
 
 1. [プラグイン併用によるRPGイベントにおけるキャラクターイベント配置・管理の効率化](https://github.com/soryu-rmv/rmv_tech01)     
-　　[Efficient design for events in RPG story by using four js plugins](https://github.com/soryu-rmv/rmv_tech01/blob/master/en.md)　    
+[Efficient design for events in RPG story by using four js plugins](https://github.com/soryu-rmv/rmv_tech01/blob/master/en.md)　    
 
 
 
