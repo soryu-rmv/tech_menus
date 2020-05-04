@@ -39,7 +39,7 @@ Technique collections for RPGMV **without** scripting and js plugins
    [Tips to save our project data from RPGMV crash](https://github.com/soryu-rmv/rpgmv_crash/blob/master/en.md)    
    
 
-2. 並列処理イベントによるプレイヤー監視とその応用    
+2. [並列処理イベントによるプレイヤー監視とその応用](https://github.com/soryu-rmv/rpgmv_parallel)     
    Event Trigger by observation for player's in parallel   
 
 
