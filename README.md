@@ -49,7 +49,7 @@ Technique collections for RPGMV **without** scripting and js plugins
 <br><br>
 
 <h2 id="tag3">プラグイン関係</h2>   
-Plugins for RPGMV
+Plugins for RPGMV    
 
 1. [条件付きマップBGM変更](https://github.com/soryu-rmv/MapBGM_EventSwitch)
    Conditional BGM switch on Map
@@ -62,7 +62,7 @@ Plugins for RPGMV
 <h2 id="tag4">補助ツール等</h2>   
 Supplimental tools for game construction in RPGMV (Instruction in English follows in the same articles.)     
 
-<br><br>
+<br>
 
 
 1. [RPGMV Unused Plugin Remover](https://github.com/soryu-rmv/RUPR)
