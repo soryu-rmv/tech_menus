@@ -54,7 +54,7 @@ Plugins for RPGMV
 <br>
 
 1. [条件付きマップBGM変更](https://github.com/soryu-rmv/MapBGM_EventSwitch)    
-   Conditional BGM switch on Map   
+   [Conditional BGM switch on Map](https://github.com/soryu-rmv/MapBGM_EventSwitch/blob/master/en.md)   
    
 <br>
 
