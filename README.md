@@ -9,8 +9,9 @@ githubに置いてある全コンテンツへのリンクです。
 ------------------------------------------     
 
 - [jsプラグイン、スクリプト使用](#tag1) 《ツクール上級者向け》    
-- [RPGツクールMVのイベントコマンド関係のテクニック集（プラグイン、スクリプト不要）](#tag2) 《ツクール初級者～》    
-- [補助ツール等](#tag3) 《ツクールMVユーザー全般》    
+- [RPGツクールMVのイベントコマンド関係のテクニック集（プラグイン、スクリプト不要）](#tag2) 《ツクール初級者～》  
+- [プラグイン関係](#tag3) 《ツクールMVユーザー全般》       
+- [補助ツール等](#tag4) 《ツクールMVユーザー全般》    
 
 ------------------------------------------        
 
@@ -44,9 +45,21 @@ Technique collections for RPGMV **without** scripting and js plugins
 
 
 
+
 <br><br>
 
-<h2 id="tag3">補助ツール等</h2>   
+<h2 id="tag3">プラグイン関係</h2>   
+Plugins for RPGMV
+
+1. [条件付きマップBGM変更](https://github.com/soryu-rmv/MapBGM_EventSwitch)
+   Conditional BGM switch on Map
+<br><br>
+
+
+
+<br><br>
+
+<h2 id="tag4">補助ツール等</h2>   
 Supplimental tools for game construction in RPGMV (Instruction in English follows in the same articles.)     
 
 <br><br>
