@@ -51,6 +51,8 @@ Technique collections for RPGMV **without** scripting and js plugins
 <h2 id="tag3">プラグイン関係</h2>   
 Plugins for RPGMV    
 
+<br>
+
 1. [条件付きマップBGM変更](https://github.com/soryu-rmv/MapBGM_EventSwitch)
    Conditional BGM switch on Map
 <br><br>
