@@ -56,6 +56,9 @@ Plugins for RPGMV
 1. [条件付きマップBGM変更](https://github.com/soryu-rmv/MapBGM_EventSwitch)    
    [Conditional BGM switch on Map](https://github.com/soryu-rmv/MapBGM_EventSwitch/blob/master/en.md)   
    
+2. 屋内天候無効    
+   Disable Weather Effect for Indoor maps   
+   
 <br>
 
 
