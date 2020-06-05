@@ -59,6 +59,9 @@ Plugins for RPGMV
 2. [屋内天候無効](https://github.com/soryu-rmv/Outdoor_Weather)    
    [Disable Weather Effect for Indoor maps](https://github.com/soryu-rmv/Outdoor_Weather/blob/master/en.md)   
    
+3. [任意歩数ごとのアクターへの各種効果を与えるステート・装備](https://github.com/soryu-rmv/ParameterEffectsByWalk)   
+   [ParameterEffectsByWalk](https://github.com/soryu-rmv/ParameterEffectsByWalk/blob/master/en.md)   
+   
 <br>
 
 
