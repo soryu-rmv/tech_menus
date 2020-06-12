@@ -48,7 +48,7 @@ Technique collections for RPGMV **without** scripting and js plugins
 
 <br><br>
 
-<h2 id="tag3">プラグイン関係</h2>   
+<h2 id="tag3">プラグイン関係(MV)</h2>   
 Plugins for RPGMV      
       
 <br>
