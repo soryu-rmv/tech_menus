@@ -62,7 +62,7 @@ Plugins for RPGMV
 3. [任意歩数ごとのアクターへの各種効果を与えるステート・装備](https://github.com/soryu-rmv/ParameterEffectsByWalk)   
    [Variables and Parameters Change States and Equipments Every Specified Walk Steps](https://github.com/soryu-rmv/ParameterEffectsByWalk/blob/master/en.md)   
 
-4. [バトラー種族定義（＆対種族特効・耐性設定）](https://github.com/soryu-rmv/race4battler)
+4. [バトラー種族定義（＆対種族特効・耐性設定）](https://github.com/soryu-rmv/race4battler) <br>
    [Race for battlers and weapon/skills efficiency for specific opponents](https://github.com/soryu-rmv/race4battler/blob/master/en.md)
 
 <br>
