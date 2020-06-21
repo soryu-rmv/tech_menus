@@ -69,6 +69,11 @@ Plugins for RPGMV
 4. [バトラー種族定義（＆対種族特効・耐性設定）](https://github.com/soryu-rmv/race4battler) <br>
    [Race for battlers and weapon/skills efficiency for specific opponents](https://github.com/soryu-rmv/race4battler/blob/master/en.md)
 
+5. 章タイトル・アイキャッチ演出シーン <br>
+   ChapterTitleScene <br>
+
+6. 単体戦闘ステータスウィンドウ <br>
+   Separatable Battle Status HUD<br>
 <br>
 
 
