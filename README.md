@@ -30,9 +30,6 @@ Application with scripting and existing js plugins
 1. [4プラグイン併用によるRPGイベントにおけるキャラクターイベント配置・管理の効率化](https://github.com/soryu-rmv/rmv_tech01)     
 [Efficient design for events in RPG story by using four js plugins](https://github.com/soryu-rmv/rmv_tech01/blob/master/en.md)　    
 
-2. (PLAN) パッシブスキルの概念を定義するプラグインの導入に関する検討   
-Discussion the installation of plugins which introduce passive skills to a game
-
 
 <br><br>
 
@@ -75,6 +72,13 @@ Plugins for RPGMV
 
 6. [単体戦闘ステータスウィンドウ](https://github.com/soryu-rmv/BattleStatusHUD) <br>
    [Separatable Battle Status HUD](https://github.com/soryu-rmv/BattleStatusHUD/blob/master/en.md) <br>
+   
+7. スキル封印時コマンド封印化対応  <br>
+   Disable actor commands by skill/spells sealing states  <br>  <br>
+
+8. 戦闘用アクターリングコマンド  <br>
+   Ring UI for Actor Command on Battle  <br>
+   
 <br>
 
 
