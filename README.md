@@ -73,11 +73,11 @@ Plugins for RPGMV
 6. [単体戦闘ステータスウィンドウ](https://github.com/soryu-rmv/BattleStatusHUD) <br>
    [Separatable Battle Status HUD](https://github.com/soryu-rmv/BattleStatusHUD/blob/master/en.md) <br>
    
-7. スキル封印時コマンド封印化対応  <br>
-   Disable actor commands by skill/spells sealing states  <br>  <br>
+7. [スキル封印時コマンド封印化対応](https://github.com/soryu-rmv/IsEnabled_SkillTypes/tree/master)  <br>
+   [Disable actor commands by skill/spells sealing states](https://github.com/soryu-rmv/IsEnabled_SkillTypes/blob/master/en.md)   <br>
 
-8. 戦闘用アクターリングコマンド  <br>
-   Ring UI for Actor Command on Battle  <br>
+8. [戦闘用アクターリングコマンド](https://github.com/soryu-rmv/BattleRingCommands)  <br>
+   [Ring UI for Actor Command on Battle](https://github.com/soryu-rmv/BattleRingCommands/blob/master/en.md)  <br>
    
 <br>
 
