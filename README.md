@@ -79,6 +79,11 @@ Plugins for RPGMV
 8. [戦闘用アクターリングコマンド](https://github.com/soryu-rmv/BattleRingCommands)  <br>
    [Ring UI for Actor Command on Battle](https://github.com/soryu-rmv/BattleRingCommands/blob/master/en.md)  <br>
    
+9. [おしゃべりポップアップウィンドウ](https://github.com/soryu-rmv/GabWindow)  <br>
+   GabWindow  <br>
+     
+   
+   
 <br>
 
 
