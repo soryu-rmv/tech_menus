@@ -80,7 +80,7 @@ Plugins for RPGMV
    [Ring UI for Actor Command on Battle](https://github.com/soryu-rmv/BattleRingCommands/blob/master/en.md)  <br>
    
 9. [おしゃべりポップアップウィンドウ](https://github.com/soryu-rmv/GabWindow)  <br>
-   GabWindow  <br>
+   [GabWindow](https://github.com/soryu-rmv/GabWindow/blob/master/en.md)  <br>
      
    
    
