@@ -4,23 +4,25 @@
 by 蒼竜 @soryu_rpmakermv    
 <br>
 
-githubに置いてある全コンテンツへのリンクです。<br>
+
+**お知らせ** <br>
+
+(日本語)
+**全てのコンテンツ及び、今後の配布物等は**<br>
+**[新サイト](http://dragonflare.dip.jp/dcave/)に移管します。**<br>
+7月いっぱいは引っ越し中の状態ですが、スクリプトに関しては既に配布形態が完成済みです。<br>
+このgithubについては、倉庫扱いとなります。<br><br><br>
+
+(Eng)<br>
+All contents including new coming script distribution is held at <br>
+[the new website](http://dragonflare.dip.jp/dcave/) completely up to end of the July. (but sorry, English site is not ready.) <br>
+**The contents are gradually transferred to the website and, the github repository here may become an archive.**
 
 
-**!!RPGツクールMZ発売前後より、コンテンツをWEBサイト移管します(codeのみ残留)。!!**<br><br>
+<br><br><br><br><br><br><br><br><br>
 
-------------------------------------------     
 
-- [jsプラグイン、スクリプト使用](#tag1) 《ツクール上級者向け》    
-- [RPGツクールMVのイベントコマンド関係のテクニック集（プラグイン、スクリプト不要）](#tag2) 《ツクール初級者～》  
-- [プラグイン関係](#tag3) 《ツクールMVユーザー全般》       
-- [補助ツール等](#tag4) 《ツクールMVユーザー全般》    
 
-------------------------------------------        <br><br>
-
-**!!RPGツクールMZ発売前後より、コンテンツをWEBサイト移管します(codeのみ残留)。!!**<br><br>
-**MZの仕様関係が把握でき次第、スクリプトはMZ用に随時移植します。**
-<br><br><br><br>
                    
 <h2 id="tag1">jsプラグイン、スクリプト使用（特に併用）</h2>
 Application with scripting and existing js plugins
