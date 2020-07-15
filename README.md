@@ -35,8 +35,8 @@ Application with scripting and existing js plugins
 
 <br><br>
 
-<h2 id="tag2">RPGMVイベントコマンドのテクニック集（プラグイン、スクリプト不要）</h2>    
-Technique collections for RPGMV **without** scripting and js plugins   
+
+
 
 <br>
 
@@ -52,9 +52,6 @@ Technique collections for RPGMV **without** scripting and js plugins
 
 <br><br>
 
-<h2 id="tag3">プラグイン関係(MV)</h2>   
-Plugins for RPGMV      
-      
 <br>
 
 1. [条件付きマップBGM変更](https://github.com/soryu-rmv/MapBGM_EventSwitch)    
@@ -91,10 +88,8 @@ Plugins for RPGMV
 
 <br><br>
 
-<h2 id="tag4">補助ツール等</h2>   
-Supplimental tools for game construction in RPGMV (Instruction in English follows in the same articles.)     
 
-<br>
+
 
 
 1. [RPGMV Unused Plugin Remover](https://github.com/soryu-rmv/RUPR)
