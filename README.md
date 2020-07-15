@@ -1,6 +1,5 @@
-# tech_menus
+# 引っ越しのお知らせ (Contents are transferred)
 
-テクニック集メインリンク  (Links titled in English are for articles in English.)         
 by 蒼竜 @soryu_rpmakermv    
 <br>
 
@@ -19,7 +18,7 @@ All contents including new coming script distribution is held at <br>
 **The contents are gradually transferred to the website and, the github repository here may become an archive.**
 
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
 
