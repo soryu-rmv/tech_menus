@@ -23,9 +23,10 @@ and, **the github repository here may become an archive.**
 
 
 
-                   
-<h2 id="tag1">jsプラグイン、スクリプト使用（特に併用）</h2>
-Application with scripting and existing js plugins
+
+
+<br>
+
 
 <br>
 
